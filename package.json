@@ -1,0 +1,14 @@
+{
+  "name": "redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "serve"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.2.0"
+  }
+}
